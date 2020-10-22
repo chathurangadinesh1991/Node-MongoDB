@@ -36,8 +36,7 @@ const employeeSchema = new mongoose.Schema({
 employeeSchema.virtual('virtualTest', {
     ref: 'Branch',
     localField: 'branch_id',
-    foreignField: 'id',
-    justOne: false
+    foreignField: 'id'
 });
 
 const Employee = mongoose.model('Employee', employeeSchema);
