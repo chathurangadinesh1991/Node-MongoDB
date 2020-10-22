@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Jonas Schmedtmann",
+    "email": "jonas@test.com",
+    "photo": "user-1.jpg",
+    "address": "1,address",
+    "password": "test",
+    "branch_id" : 1
+  },
+  {
+    "id": 2,
+    "name": "Lourdes Browning",
+    "email": "lourdes@test.com",
+    "photo": "user-2.jpg",
+    "address": "2,address",
+    "password": "2mZJ9BbKcgFdddpwSG4Y1ZEII8HJVzWeyS",
+    "branch_id" : 2    
+  },
+  {
+    "id": 3,
+    "name": "Sophie Louise Hart",
+    "email": "sophie@test.com",
+    "photo": "user-3.jpg",
+    "address": "3,address",
+    "password": "e3c533c45454",
+    "branch_id" : 1    
+  },
+  {
+    "id": 4,
+    "name": "Ayla Cornell",
+    "email": "ayls@test.com",
+    "photo": "user-4.jpg",
+    "address": "4,address",
+    "password": "sdfsdfsdfsdfsdfwwerxec",
+    "branch_id" : 2   
+  },
+  {
+    "id": 5,
+    "name": "Leo Gillespie",
+    "email": "leo@test.com",
+    "photo": "user-5.jpg",
+    "address": "5,address",
+    "password": "sdfsdfsdfsdfsdfsdf",
+    "branch_id" : 3   
+  }
+]
