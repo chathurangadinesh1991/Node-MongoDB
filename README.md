@@ -12,3 +12,8 @@ Run `npm start` for a dev server. Navigate to `http://localhost:3000/`. The app 
 
 email : jonas@test.com
 password : test
+
+## Special Note
+
+Another solutin for One to many relation in mongo database.
+https://www.youtube.com/watch?v=t_9fgpsO_vM
